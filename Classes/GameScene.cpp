@@ -9,7 +9,7 @@
 #include "GameScene.h"
 #include "HelloWorldScene.h"
 
-USING_NS_CC; 
+USING_NS_CC;
 
 Scene* Game::createScene(){
     auto scene = Scene::create();
